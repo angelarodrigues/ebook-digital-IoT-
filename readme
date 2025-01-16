@@ -1,63 +1,64 @@
-# Projeto EBOOK Gerado por I.A.
+# Projeto Ebook Digital IoT
 
-Este repositório contém o projeto desenvolvido durante o curso no qual fui instrutor técnico na plataforma da DIO. O objetivo é gerar um ebook digital utilizando ferramentas de IA, como ChatGPT e MidJourney, para criação de conteúdo e imagens.
 
----
+## 🛠️ Tecnologias Utilizadas
 
-## Tecnologias utilizadas no projeto
-
-- **ChatGPT**: Para geração de conteúdo textual.
-- **MidJourney**: Para criação de imagens.
-- **PowerPoint**: Para diagramação e formatação do ebook.
+- **ChatGPT**: Para a geração de conteúdo textual de alta qualidade.
+- **MidJourney**: Para a criação de imagens incríveis e visuais impressionantes.
+- **PowerPoint**: Para a diagramação e formatação final do ebook.
 
 ---
 
-## Prompts utilizados
 
-Aqui estão os prompts que foram utilizados para gerar o conteúdo do ebook:
+## ✨ Features
 
-### ChatGPT
-
-| Ação       | Prompt                                                                                   |
-|------------|------------------------------------------------------------------------------------------|
-| Título     | Crie um título de um ebook sobre o tema de CSS, o ebook é do nicho de programação e o subnicho é de CSS, o título deve ser épico e curto, e tenha uma temática de Star Wars no título. Me liste 5 variações de títulos. |
-| Conteúdo   | Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código (REGRAS). Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico. |
-
-### MidJourney
-
-| Ação       | Prompt                                                                                   |
-|------------|------------------------------------------------------------------------------------------|
-| Título     | A Jedi in meditation pose, with a blue lightsaber floating, pixel art style --v 5.1      |
+- **Conteúdo Gerado via ChatGPT**: Textos claros, exemplos de código e explicações simples sobre CSS.
+- **Imagens Geradas via MidJourney**: Ilustrações visuais impressionantes que complementam o conteúdo.
+- **Diagramação no PowerPoint**: Organização profissional e formatação elegante do ebook.
 
 ---
 
-## Features
+## 📂 Estrutura do Projeto
 
-- **Conteúdo gerado via ChatGPT**: Textos e exemplos de código.
-- **Imagens geradas via MidJourney**: Ilustrações e artes visuais.
-- **Diagramação no PowerPoint**: Organização e formatação do ebook.
+- **📄 README.md**: Este arquivo, com todas as informações sobre o projeto.
 
 ---
 
-## Materiais
-
-- **Imagens utilizadas**: Todas as imagens geradas estão na pasta **[assets](#)**.
-- **Ebook gerado**: O arquivo final do ebook está na pasta **[output](#)**.
-
----
-
-## Instruções de execução
+## 🚀 Instruções de Execução
 
 Para replicar este projeto, siga os passos abaixo:
 
-1. Utilize os prompts fornecidos nas ferramentas sugeridas (ChatGPT e MidJourney) para gerar o conteúdo e as imagens.
-2. Utilize uma ferramenta de edição de documentos, como PowerPoint, LibreOffice ou InDesign, para diagramar o ebook.
-3. Siga a estrutura de pastas deste repositório para organizar os arquivos.
+1. **Gere o Conteúdo**: Utilize os prompts fornecidos nas ferramentas sugeridas (ChatGPT e MidJourney) para gerar o conteúdo e as imagens.
+2. **Diagrame o Ebook**: Utilize uma ferramenta de edição de documentos, como PowerPoint, LibreOffice ou InDesign, para diagramar o ebook.
+3. **Organize os Arquivos**: Siga a estrutura de pastas deste repositório para manter tudo organizado.
 
 ---
 
-## Expert
+## 👩‍💻 Expert
 
 **Angela Rodrigues**  
-[GitHub](https://github.com/angelarodrigues) | [LinkedIn](#) | [Instagram](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelarodrigues)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
+---
+
+## 🌟 Contribuição
+
+Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença **MIT**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+---
+
+## 🙌 Agradecimentos
+
+Agradeço à **DIO** pela oportunidade de compartilhar conhecimento e a todos os alunos que participaram do curso. Que a Força do CSS esteja com vocês! 🚀
+
+---
+
+**✨ Que a Força do Código Esteja com Você! ✨**
